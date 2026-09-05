@@ -1,6 +1,6 @@
 streamlit
-numpy
+numpy<2.0.0
 scikit-learn
 xgboost
-tensorflow
 joblib
+tensorflow-cpu
